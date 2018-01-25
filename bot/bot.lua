@@ -1,3 +1,4 @@
+--@C_AmirBagheri
 #start Project Anti Spam V5:)
 json = dofile('./libs/JSON.lua')
 serpent = dofile("./libs/serpent.lua")
